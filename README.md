@@ -2,6 +2,10 @@
 
 Windows desktop app that converts Heartopia music page notation into the translated piano key format.
 
+## Download EXE
+
+[Download HeartopiaPianoTranslator.exe](https://github.com/Jesus-md-dev/HeartopiaPianoTranslator/raw/main/dist/HeartopiaPianoTranslator.exe)
+
 ## Included
 
 - `HEARTOPIA_PIANO_TRANSLATOR.py`: source code
